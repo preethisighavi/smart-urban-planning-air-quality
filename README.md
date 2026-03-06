@@ -54,6 +54,3 @@ source .venv/bin/activate   # macOS/Linux
 pip install -r requirements.txt
 jupyter notebook
 ```
-
-## Notes
-- The repo was cleaned for Git: removed macOS artifacts (`__MACOSX`, `.DS_Store`, `._*`) and replaced the Word `.gitignore.docx` with a proper text `.gitignore`.
